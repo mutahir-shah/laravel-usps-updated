@@ -15,8 +15,7 @@
     ],
     "homepage":"https://github.com/mutahir-shah/laravel-usps-updated/",
     "license": "MIT",
-    "require": {
-        "php": ">=5.4.0"
+    "require": { 
     },
     "autoload": {
         "psr-0": {
