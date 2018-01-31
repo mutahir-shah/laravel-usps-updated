@@ -1,7 +1,7 @@
 {
     "name": "mutahir-shah/laravel-usps-updated",
     "description": "USPS API for Laravel 5.5",
-    "license": "MIT",
+    "type": "project",
     "keywords": ["usps","laravel","laravel5","laravel usps"],
     "authors": [
          {
