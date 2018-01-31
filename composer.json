@@ -1,20 +1,16 @@
 {
     "name": "mutahir-shah/laravel-usps-updated",
-    "description": "USPS API for Laravel 5.5",
-    "type": "package",
+    "description": "USPS API for Laravel 5",
+    "type": "library",
     "keywords": ["usps","laravel","laravel5","laravel usps"],
     "authors": [
-         {
+        {
             "name": "Mutahir Shah",
-            "email": "mutahir@pkteam.com"
+            "email": "mutahiricup@gmail.com"
         },
         {
-            "name": "John Paul Medina",
-            "email": "medina.jpaul@gmail.com"
-        },
-        {
-            "name": "Vincent Gabriel",
-            "link": "https://github.com/VinceG"
+            "name": "Mutahir Shah",
+            "link": "https://github.com/mutahir-shah"
         }
     ],
     "homepage":"https://github.com/mutahir-shah/laravel-usps-updated/",
@@ -27,5 +23,5 @@
             "Usps": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
