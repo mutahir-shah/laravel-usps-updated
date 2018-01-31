@@ -12,7 +12,7 @@ Laravel-USPS is a composer package that allows you to integrate the USPS Address
 Begin by installing this package through Composer. Run this command from the Terminal:
 
 ```bash
-composer require johnpaulmedina/laravel-usps:dev-master
+composer require mutahir-shah/laravel-usps-updated:dev-master
 ```
 ## Laravel integration
 
